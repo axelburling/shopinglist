@@ -1,0 +1,4 @@
+/node_modules
+/pg_data
+.DS_Store
+.env
